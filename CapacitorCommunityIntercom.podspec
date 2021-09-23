@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target  = '12.0'
   s.static_framework = true
   s.dependency 'Capacitor'
-  s.dependency 'Intercom', '~> 10.1.4'
+  s.dependency 'Intercom', '10.1.4'
 end
